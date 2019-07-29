@@ -114,8 +114,12 @@
 	<strong>Sarah Jaeggli</strong>:  PhD (Astronomy), University of Hawaii, 2011 
 <br/>
 	<br/>
+	<strong>Mansi Kasliwal</strong>: PhD (Astronomy), Caltech, 2011; MS (Astronomy) Caltech, 2007
+<br/>
+	<br/>
 	<strong>James Keane</strong>: PhD (Planetary Science), The University of Arizona, 2017
-<br/>	<br/>	<strong>Patrick Kelly</strong>: PhD (Astronomy), Stanford, 2012  
+<br/>	
+	<br/>	<strong>Patrick Kelly</strong>: PhD (Astronomy), Stanford, 2012  
 <br/>
 	<br/>
 	<strong>Charlie Lawton</strong>: PhD (Ecology & Evolutionary Biology), University of Colorado, 2010 
@@ -183,7 +187,7 @@
 	
 	<div class="main_full">
 	
-		<strong>Silvana Ayala</strong>: MA (Creative Writing), University of Texas El Paso, 2010 
+	<strong>Silvana Ayala</strong>: MA (Creative Writing), University of Texas El Paso, 2010 
 <br/>
 	<br/>
 	<strong>Kayla Barnett</strong>: MBA (Accounting), The University of Arizona's  Eller School of Management, 2011
@@ -214,6 +218,10 @@
 <br/>
 	<br/>
 	<strong>Lucia Galvan</strong>: MB (Management), Instituto Tecnológico y de Estudios Superiores de Monterrey, 2008 
+<br/>
+	<br/>
+	<strong>Shae Hart</strong>: MSME (Masters in Mechanical Engineering, Dynamics and Controls Track); Santa Clara University, 2019
+
 <br/>
 	<br/>
 	<strong>Jessica (Hejnal) Bentele</strong>: MA (Library Science), University of Missouri, 2010 
@@ -275,10 +283,13 @@
 	<strong>Sarah Benjamin</strong>: PhD (Astronomy), Yale University 
 <br/>
 	<br/>
+	<strong>Aliza Beverage</strong>: PhD (Astronomy) UC Berkeley
+<br/>
+	<br/>
 	<strong>Nora (Byars) Phillips</strong>: PhD (Human Development & Family Studies), Texas Tech University; M. Ed. (Education) Wayland Baptist University, 2009
 <br/>
 	<br/>
-	<strong>Jenny Callahan</strong>:PhD (Astronomy), University of Michigan
+	<strong>Jenny Calahan</strong>:PhD (Astronomy), University of Michigan
 <br/>
 	<br/>
 	<strong>Yvette Cendes</strong>: PhD (Astronomy), the University of Amsterdam; MS (Physics) Case Western Reserve University, 2010 
