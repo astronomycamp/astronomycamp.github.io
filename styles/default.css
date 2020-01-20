@@ -14,13 +14,19 @@ body {
 }
 #wrapper {
 	display: block;
+	height: 100%;
 	width: 800px;
 	margin: 0px auto;
 }
 #main_container {
 	display: block;
-	width: 760px;
+	width: 766px;
 	margin: 20px;
+	border: 2px solid #000000;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
 	background: url(../images/main_bg.jpg) #262626;
 	/* background: #262626; */
 }
@@ -59,19 +65,19 @@ body {
 }
 #banner {
 	display: block;
-	width: 740px;
+	width: 742px;
 	margin: 2px 10px 0px 10px;
-	border: 1px solid #7F84A0;
+	border: 2px solid #7F84A0;
 }
 #link_container {
 	display: block;
 	margin: 0px 10px 10px 10px;
-	width: 740px;
+	width: 742px;
 	height: 25px;
 	background: #222222;
-	border-bottom: 1px solid #7F84A0;
-	border-left: 1px solid #7F84A0;
-	border-right: 1px solid #7F84A0;
+	border-bottom: 2px solid #7F84A0;
+	border-left: 2px solid #7F84A0;
+	border-right: 2px solid #7F84A0;
 }
 .link_spacer {
 	display: block;
@@ -112,7 +118,7 @@ color: #FFFFFF; text-decoration: none;
 	width: 178px;
 	padding: 6px;
 	background: #111111;
-	border: 1px solid #7F84A0;
+	border: 2px solid #7F84A0;
 	float: left;
 }
 #more_info a {
@@ -168,7 +174,7 @@ color: #FFFFFF; text-decoration: none;
 	width: 524px;
 	padding: 6px;
 	background: #111111;
-	border: 1px solid #7F84A0;
+	border: 2px solid #7F84A0;
 	float: left;
 }
 .main_full {
@@ -177,7 +183,7 @@ color: #FFFFFF; text-decoration: none;
 	width: 726px;
 	padding: 6px;
 	background: #111111;
-	border: 1px solid #7F84A0;
+	border: 2px solid #7F84A0;
 }
 .main_full_banner {
 	display: block;
@@ -185,7 +191,7 @@ color: #FFFFFF; text-decoration: none;
 	width: 726px;
 	padding: 6px;
 	background: #111111;
-	border: 1px solid #7F84A0;
+	border: 2px solid #7F84A0;
 	text-align: center;
 }
 a { color: #9EBDFF; text-decoration: none;}
@@ -208,7 +214,7 @@ strong {
 	height: 44px;
 	margin: 12px 10px 2px 10px;
 	padding: 4px 0px 0px 0px;
-	border: 1px solid #7F84A0;
+	border: 2px solid #7F84A0;
 	text-align: center;
 	background: #111111;
 }
