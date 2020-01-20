@@ -104,7 +104,7 @@ color: #FFFFFF; text-decoration: none;
 .selected {
 	background: url(../images/link_background_hover.gif) repeat-x top;
 }
-.home {width: 53px; text-align: center;}
+.home {width: 62px; text-align: center;}
 .link_image {
 	float: left;
 	margin-left: 6px;
